@@ -81,14 +81,17 @@ Add GUI using PyQt or Tkinter
 Add OCR
 
 ## Requirements
+
 opencv-python
 numpy
 
 ## Author
+
 Jai Kumar
 Email: jaikumar913276@gmail.com
 GitHub: Iam-Jai-Kumar
 
 ## Acknowledgements
+
 OpenCV Team for powerful vision tools
 The Python community for awesome support
